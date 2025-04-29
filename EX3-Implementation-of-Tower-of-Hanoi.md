@@ -16,7 +16,7 @@ To write a C program to implement Tower of Hanoi
 ```
 /*
 Program to implement Tower of Hanoi
-Developed by: ANU VARSHINI M B
+Developed by: Sai Sanjiv R
 RegisterNumber:  212223240010
 */
 #include<stdio.h> 
